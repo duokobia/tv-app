@@ -1,0 +1,6 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: calc(100vh - 130px);
+}
